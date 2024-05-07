@@ -1,4 +1,6 @@
 # portfolio
+● The site is deployed here https://prakashpaini.netlify.app/
+
 ● Designed and developed a dynamic portfolio website using HTML, CSS, SCSS, and JavaScript to showcase my professional work, skills, and achievements.
 
 ● Utilized SCSS to write clean and organized CSS code with variables, mixings, and nesting for better maintainability.
